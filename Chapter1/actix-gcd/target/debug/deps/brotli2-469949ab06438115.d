@@ -1,0 +1,11 @@
+/Users/eminhashimi/RustroverProjects/actix-gcd/Chapter1/actix-gcd/target/debug/deps/brotli2-469949ab06438115.rmeta: /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/eminhashimi/RustroverProjects/actix-gcd/Chapter1/actix-gcd/target/debug/deps/libbrotli2-469949ab06438115.rlib: /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/eminhashimi/RustroverProjects/actix-gcd/Chapter1/actix-gcd/target/debug/deps/brotli2-469949ab06438115.d: /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs /Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs
+
+/Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/lib.rs:
+/Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/raw.rs:
+/Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/bufread.rs:
+/Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/read.rs:
+/Users/eminhashimi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/brotli2-0.3.2/src/write.rs:

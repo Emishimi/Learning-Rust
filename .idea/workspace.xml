@@ -7,7 +7,10 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab706510-f6a2-47f5-80d8-70d85bb4c109" name="Changes" comment="" />
+    <list default="true" id="ab706510-f6a2-47f5-80d8-70d85bb4c109" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/actix-gcd/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/actix-gcd/src/main.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/actix-gcd" />
     </key>
   </component>
@@ -86,6 +90,8 @@
       <updated>1696336445392</updated>
       <workItem from="1696336446445" duration="1148000" />
       <workItem from="1696337599421" duration="3715000" />
+      <workItem from="1696368393219" duration="1621000" />
+      <workItem from="1696370020984" duration="2000" />
     </task>
     <servers />
   </component>
