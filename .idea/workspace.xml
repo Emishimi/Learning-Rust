@@ -5,11 +5,131 @@
   </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Chapter1/mandelbrot/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Chapter1/quickreplace/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab706510-f6a2-47f5-80d8-70d85bb4c109" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-0554471bfee71386/bin-mandelbrot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-0554471bfee71386/bin-mandelbrot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-0554471bfee71386/dep-bin-mandelbrot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-0554471bfee71386/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-6ee8dc9c3fd54fda/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-6ee8dc9c3fd54fda/test-bin-mandelbrot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-6ee8dc9c3fd54fda/test-bin-mandelbrot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-fd54f5d612c0de22/bin-mandelbrot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-fd54f5d612c0de22/bin-mandelbrot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/.fingerprint/mandelbrot-fd54f5d612c0de22/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/deps/mandelbrot-0554471bfee71386.10h4dif3by3y7qal.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/deps/mandelbrot-0554471bfee71386.1tr3i2mjux0p8n4s.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/deps/mandelbrot-0554471bfee71386.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/deps/mandelbrot-0554471bfee71386.nk3d7bop26poouv.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/deps/mandelbrot-0554471bfee71386.qc8ar8axoci4jwd.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/deps/mandelbrot-0554471bfee71386.qy7v7niekctt88y.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/deps/mandelbrot-0554471bfee71386.x3esbaq2eiotspv.rcgu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/10h4dif3by3y7qal.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/1tr3i2mjux0p8n4s.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/nk3d7bop26poouv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/qc8ar8axoci4jwd.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/qy7v7niekctt88y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi-arz0w0vk3yexuww26tjqabqqz/x3esbaq2eiotspv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/incremental/mandelbrot-2bys2s9n4kj9n/s-gpd0676pqj-llwtgi.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/mandelbrot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/target/debug/mandelbrot.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/aho-corasick-0ad78779509e23bf/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/aho-corasick-0ad78779509e23bf/lib-aho_corasick" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/aho-corasick-0ad78779509e23bf/lib-aho_corasick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/bitflags-aeddac06c51b7ca3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/bitflags-aeddac06c51b7ca3/lib-bitflags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/bitflags-aeddac06c51b7ca3/lib-bitflags.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/colored-73f7165148ba52dd/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/colored-73f7165148ba52dd/lib-colored" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/colored-73f7165148ba52dd/lib-colored.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/errno-b42e918054ccfb38/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/errno-b42e918054ccfb38/lib-errno" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/errno-b42e918054ccfb38/lib-errno.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/is-terminal-ac4a23c50a5b5f6c/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/is-terminal-ac4a23c50a5b5f6c/lib-is-terminal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/is-terminal-ac4a23c50a5b5f6c/lib-is-terminal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/lazy_static-24e0c5a9312f4516/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/lazy_static-24e0c5a9312f4516/lib-lazy_static" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/lazy_static-24e0c5a9312f4516/lib-lazy_static.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-e0635f15a2fa635a/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-e0635f15a2fa635a/lib-libc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-e0635f15a2fa635a/lib-libc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-e0b4293bde04cb51/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-e0b4293bde04cb51/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-e0b4293bde04cb51/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-e0b4293bde04cb51/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-f8417294ff6c680e/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/libc-f8417294ff6c680e/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/memchr-4526200ec7506c1e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/memchr-4526200ec7506c1e/lib-memchr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/memchr-4526200ec7506c1e/lib-memchr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-09a3b942c2ba3744/bin-quickreplace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-09a3b942c2ba3744/bin-quickreplace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-09a3b942c2ba3744/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-6a2707c648452284/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-6a2707c648452284/test-bin-quickreplace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-6a2707c648452284/test-bin-quickreplace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-780e5ea9a78deb36/bin-quickreplace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-780e5ea9a78deb36/bin-quickreplace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-780e5ea9a78deb36/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-e6533643761bd85e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-e6533643761bd85e/test-bin-quickreplace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/quickreplace-e6533643761bd85e/test-bin-quickreplace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-77a31ac214d627a2/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-77a31ac214d627a2/lib-regex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-77a31ac214d627a2/lib-regex.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-automata-97fac232232a59df/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-automata-97fac232232a59df/lib-regex-automata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-automata-97fac232232a59df/lib-regex-automata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-syntax-d0bdb9be0f9c6e59/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-syntax-d0bdb9be0f9c6e59/lib-regex-syntax" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/regex-syntax-d0bdb9be0f9c6e59/lib-regex-syntax.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-1319b34b9ef3c8c5/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-1319b34b9ef3c8c5/lib-rustix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-1319b34b9ef3c8c5/lib-rustix.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-31e819327e084ee8/run-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-31e819327e084ee8/run-build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-fecd6b564a4d76f1/build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-fecd6b564a4d76f1/build-script-build-script-build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-fecd6b564a4d76f1/dep-build-script-build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/rustix-fecd6b564a4d76f1/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/text-colorizer-3aaa7b46bf5ed4a3/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/text-colorizer-3aaa7b46bf5ed4a3/lib-text-colorizer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/.fingerprint/text-colorizer-3aaa7b46bf5ed4a3/lib-text-colorizer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/libc-e0b4293bde04cb51/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/libc-e0b4293bde04cb51/build_script_build-e0b4293bde04cb51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/libc-e0b4293bde04cb51/build_script_build-e0b4293bde04cb51.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/libc-f8417294ff6c680e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/libc-f8417294ff6c680e/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/libc-f8417294ff6c680e/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/libc-f8417294ff6c680e/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-31e819327e084ee8/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-31e819327e084ee8/out/librust_out.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-31e819327e084ee8/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-31e819327e084ee8/root-output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-31e819327e084ee8/stderr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-fecd6b564a4d76f1/build-script-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-fecd6b564a4d76f1/build_script_build-fecd6b564a4d76f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/quickreplace/target/debug/build/rustix-fecd6b564a4d76f1/build_script_build-fecd6b564a4d76f1.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/actix-gcd/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/actix-gcd/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/mandelbrot/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/mandelbrot/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/mandelbrot/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +163,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/eminhashimi/RustroverProjects/actix-gcd&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eminhashimi/Documents/Rust/Learning-Rust&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;
   }
 }</component>
@@ -92,6 +213,8 @@
       <workItem from="1696337599421" duration="3715000" />
       <workItem from="1696368393219" duration="1621000" />
       <workItem from="1696370020984" duration="2000" />
+      <workItem from="1696612947921" duration="2757000" />
+      <workItem from="1696615873218" duration="5612000" />
     </task>
     <servers />
   </component>
